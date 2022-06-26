@@ -5,6 +5,7 @@ This is a front-running bot that's written in simple JavaScript and runs in any 
 
 This is a thorough YouTube video that shows precisely how to configure this program along with the results of running it 28 days 24/7.
 
+https://youtu.be/rjHlq6ugohI
 
 You can download the zip file of this program here
 
